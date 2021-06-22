@@ -1,14 +1,5 @@
 # PHP Engineer Questions
 
-## Code review 
-
-One part of the interview is a discussion of a very short code review. You will be sent an archive with small batch of Java files. We ask you to spend a few minutes to review these files and familiarize yourself with the code. 
-    
-You don't have to share anything with us beforehand! Just come prepared to have a conversation about the following during the interview. 
-- quality
-- improvements
-- code smells 
-
 ## Behavioral Questions
 
 - Describe a situation where you had performance problems with a system.
